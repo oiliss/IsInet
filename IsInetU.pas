@@ -188,7 +188,7 @@ begin
   //end else begin
   //  SaveLog('Internet ABSENT!');
   //  noInetDT := Now();
-  //end;
+  //end;//
   //isInetOK := isInet;
   isInetOK := true;
   strBalloonTitle := 'All OK';
